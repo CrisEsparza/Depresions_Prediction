@@ -88,6 +88,7 @@ Puedes abrir un *issue* o enviar un *pull request* con tus ideas y mejoras.
 ---
 
 👤 **Autor:** Cristopher Esparza  
-📫 [Tu correo o LinkedIn aquí]  
-⭐ **Apoya este proyecto dejando una estrella** — tu clic impulsa la ciencia abierta. 🌟
+💼 [LinkedIn](https://www.linkedin.com/in/cristopher-esparza-cabrales-79b2a135/?trk=public-profile-join-page)  
+📧 **cristopher.esparza@gmail.com**  
+📊 [Portafolio de Proyectos (GitHub)](https://github.com/CrisEsparza)  
 
