@@ -1,5 +1,6 @@
 # 🌧️ Depresión: Un Enfoque desde la Ciencia de Datos  
-> “Comprender los datos para comprender la mente.” 🧠💡  
+> “Comprender los datos para comprender la mente.” 🧠💡
+> 
 ---
 
 ## 🧩 Introducción  
@@ -11,6 +12,7 @@ A través de modelos de **Machine Learning**, analizamos variables como:
 👤 Factores demográficos • 🧬 Condiciones médicas • 🌿 Hábitos de vida • 🧠 Antecedentes familiares  
 
 El propósito: ofrecer herramientas predictivas para **profesionales de la salud**, **investigadores** y **responsables de políticas públicas** en salud mental.  
+
 ---
 
 ## 💡 Motivación  
@@ -23,6 +25,7 @@ Gracias al auge de la **analítica avanzada**, hoy podemos explorar grandes vol�
 - 🧭 Diseñar estrategias preventivas más efectivas.  
 
 Este proyecto demuestra cómo la **ciencia de datos puede convertirse en una aliada poderosa de la salud mental**. ❤️  
+
 ---
 
 ## 💼 Contexto Comercial y Analítico  
