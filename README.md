@@ -95,3 +95,7 @@ Puedes abrir un *issue* o enviar un *pull request* con tus ideas y mejoras.
 📧 **cristopher.esparza@gmail.com**  
 📊 [Portafolio de Proyectos (GitHub)](https://github.com/CrisEsparza)  
 
+> ## 💾 Descarga del Dataset  
+> 📦 **[Depresión_Dataset.rar](https://github.com/CrisEsparza/Depresions_Prediction/raw/main/Depresi%C3%B3n_Dataset.rar)**  
+> Archivo comprimido con los datos del proyecto *Depresions Prediction*.  
+
